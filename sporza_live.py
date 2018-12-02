@@ -2,9 +2,6 @@
 #written by Sebastiaan Lamproye (2018/12/02)
 
 import requests
-import io
-import datetime
-import os
 from bs4 import BeautifulSoup
 
 #colors which can be used for formatting output
